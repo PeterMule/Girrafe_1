@@ -1,0 +1,15 @@
+C:\Users\PETER\source\repos\Giraffe_1\bin\Debug\net6.0\Giraffe_1.exe
+C:\Users\PETER\source\repos\Giraffe_1\bin\Debug\net6.0\Giraffe_1.deps.json
+C:\Users\PETER\source\repos\Giraffe_1\bin\Debug\net6.0\Giraffe_1.runtimeconfig.json
+C:\Users\PETER\source\repos\Giraffe_1\bin\Debug\net6.0\Giraffe_1.dll
+C:\Users\PETER\source\repos\Giraffe_1\bin\Debug\net6.0\Giraffe_1.pdb
+C:\Users\PETER\source\repos\Giraffe_1\obj\Debug\net6.0\Giraffe_1.csproj.AssemblyReference.cache
+C:\Users\PETER\source\repos\Giraffe_1\obj\Debug\net6.0\Giraffe_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PETER\source\repos\Giraffe_1\obj\Debug\net6.0\Giraffe_1.AssemblyInfoInputs.cache
+C:\Users\PETER\source\repos\Giraffe_1\obj\Debug\net6.0\Giraffe_1.AssemblyInfo.cs
+C:\Users\PETER\source\repos\Giraffe_1\obj\Debug\net6.0\Giraffe_1.csproj.CoreCompileInputs.cache
+C:\Users\PETER\source\repos\Giraffe_1\obj\Debug\net6.0\Giraffe_1.dll
+C:\Users\PETER\source\repos\Giraffe_1\obj\Debug\net6.0\refint\Giraffe_1.dll
+C:\Users\PETER\source\repos\Giraffe_1\obj\Debug\net6.0\Giraffe_1.pdb
+C:\Users\PETER\source\repos\Giraffe_1\obj\Debug\net6.0\Giraffe_1.genruntimeconfig.cache
+C:\Users\PETER\source\repos\Giraffe_1\obj\Debug\net6.0\ref\Giraffe_1.dll

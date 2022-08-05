@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Giraffe_1/1.0.0": {
+        "runtime": {
+          "Giraffe_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Giraffe_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
