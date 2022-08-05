@@ -27,6 +27,14 @@ namespace Giraffe_1
             Console.WriteLine("The cube of " + number + " is " + cube(number));
             Console.WriteLine("th forth day of the week is a " + getDay(3));
             guessingGame();
+            Book novel = new Book();
+            novel.title = "Harry Potter";
+            novel.author = "J.K. Rowling";
+            novel.PageCount = 400;
+
+            Book huge_novel = new Book("Lord of the Rings", "Tolkein", 1500);
+
+
         }
 
         static void variables()
